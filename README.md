@@ -348,10 +348,6 @@ For production deployment, consider:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
-
-- **Full-Stack Developer** - *Initial work* - [Your Name]
-
 ## 🙏 Acknowledgments
 
 - Spring Boot team for the excellent framework
